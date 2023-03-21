@@ -3,7 +3,8 @@ Welcome to Agastya Kitchen
 kheer
 pasta
 chiken fry
-
+beans
+pizza
 
 
 thank you
